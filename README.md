@@ -52,6 +52,9 @@ Modify / update a custom Slider Filter that allows a user on a PowerBI report to
 </p>
 
 **Related Code to Merge and Update:**
+- https://github.com/TriskeleTechnology/SliderFilter
+- https://github.com/TriskeleTechnology/SliderFilter_Grouping
+
 
 **Specification Document:** [Link](SliderFilter.pdf)
 
@@ -65,6 +68,7 @@ Modify / update a custom Timeline Filter that allows a user on a PowerBI report 
 </p>
 
 **Related Code to Update:** 
+- https://github.com/TriskeleTechnology/TimelineFilter
 
 
 **Specification Document:** [Link](TimelineFilter.pdf)
