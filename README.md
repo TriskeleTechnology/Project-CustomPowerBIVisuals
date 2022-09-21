@@ -15,13 +15,15 @@ Visuals to Update:
 3. Slider Filter
 4. Timeline Filter
 
-**Overall Scope Document:**  
+**Overall Scope Document:** [Link](CustomTypeScriptVisuals_ScopeofWork.pdf) 
 
 ## Matrix 
 
 Build a custom Matrix that allows a user on a PowerBI report to view and select individual data points.
 
-Specification Document: ()
+
+
+**Specification Document:** [Link]()
 
 
 ## Selection Filter
