@@ -40,7 +40,7 @@ Build a custom Selection Filter that allows a user on a PowerBI report to filter
   <img src="Screenshots/SelectionFilter.png" width="450" title="Selection Filter Screenshot">
 </p>
 
-**Specification Document:** [Link](Selection Filter.pdf)
+**Specification Document:** [Link](SelectionFilter.pdf)
 
 
 ## Slider Filter
