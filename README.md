@@ -10,12 +10,12 @@ Build 2 visuals from scratch and modify / update 2 visuals using the PowerBI vis
 **Visuals to Build:**
 
 1. [Matrix](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/blob/main/README.md#matrix)
-2. [Selection Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/main/README.md#selection-filter)
+2. [Selection Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/blob/main/README.md#selection-filter)
 
 **Visuals to Update:**
 
-3. [Slider Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/main/README.md#slider-filter)
-4. [Timeline Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/main/README.md#timeline-filter)
+3. [Slider Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/blob/main/README.md#slider-filter)
+4. [Timeline Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/blob/main/README.md#timeline-filter)
 
 **Overall Scope Document:** [Link](CustomTypeScriptVisuals_ScopeofWork.pdf) 
 
