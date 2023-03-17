@@ -17,8 +17,6 @@ Build 2 visuals from scratch and modify / update 2 visuals using the PowerBI vis
 3. [Slider Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/blob/main/README.md#slider-filter)
 4. [Timeline Filter](https://github.com/TriskeleTechnology/Project-CustomPowerBIVisuals/blob/main/README.md#timeline-filter)
 
-**Overall Scope Document:** [Link](CustomTypeScriptVisuals_ScopeofWork.pdf) 
-
 ---
 
 ## Matrix 
