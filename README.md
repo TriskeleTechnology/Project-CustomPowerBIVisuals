@@ -29,6 +29,9 @@ Build a custom Matrix that allows a user on a PowerBI report to view and select 
   <img src="Screenshots/Matrix.png" width="450" title="Matrix Screenshot">
 </p>
 
+**Related Code to Merge and Update:**
+- https://github.com/TriskeleTechnology/Matrix
+
 **Specification Document:** [Link](Matrix.pdf)
 
 
@@ -39,6 +42,9 @@ Build a custom Selection Filter that allows a user on a PowerBI report to filter
 <p align="left">
   <img src="Screenshots/SelectionFilter.png" width="450" title="Selection Filter Screenshot">
 </p>
+
+**Related Code to Merge and Update:**
+- https://github.com/TriskeleTechnology/SelectionFilter
 
 **Specification Document:** [Link](SelectionFilter.pdf)
 
@@ -53,7 +59,6 @@ Modify / update a custom Slider Filter that allows a user on a PowerBI report to
 
 **Related Code to Merge and Update:**
 - https://github.com/TriskeleTechnology/SliderFilter
-- https://github.com/TriskeleTechnology/SliderFilter_Grouping
 
 
 **Specification Document:** [Link](SliderFilter.pdf)
